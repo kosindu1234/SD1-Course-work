@@ -1,0 +1,10 @@
+progress-120,0,0
+Progress-module trailer-100,20,0
+Progress-module trailer-100,0,20
+Do not progress - modile retriever-80,20,20
+Do not progress - modile retriever-60,40,20
+Do not progress - modile retriever-40,40,40
+Do not progress - modile retriever-20,40,60
+Exclude-20,20,80
+Exclude-20,0,100
+Exclude-0,0,120
